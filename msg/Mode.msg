@@ -1,0 +1,3 @@
+uint16 AUTO=0
+uint16 MANUAL=1
+uint16 END=999
